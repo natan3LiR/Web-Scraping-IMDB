@@ -1,0 +1,4 @@
+.ipc-metadata-list-summary-item__c | Pega caixa com nome e ano do filme
+.ipc-title__text | Nome do filme
+.sc-5bc66c50-6 OOdsw cli-title-metadata-item | Anos 
+.ipc-rating-star--rating | Avalicação
